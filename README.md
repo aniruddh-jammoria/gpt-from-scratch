@@ -6,7 +6,7 @@ The focus is on understanding — every line of code is explained, every concept
 
 ## Notebooks
 
-### [`nanogpt.ipynb`](notebooks/nanogpt.ipynb) — NanoGPT on Shakespeare
+### [`shakespeare-gpt-10m.ipynb`](shakespeare-gpt-10m.ipynb) — NanoGPT on Shakespeare
 
 A complete GPT implementation trained on Tiny Shakespeare (~1MB of text).
 
