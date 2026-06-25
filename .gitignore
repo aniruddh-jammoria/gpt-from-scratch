@@ -1,5 +1,20 @@
+# Project-specific
 input.txt
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
 loss_history.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# VS Code
+# .vscode/
