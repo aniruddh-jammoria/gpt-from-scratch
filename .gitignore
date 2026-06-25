@@ -1,6 +1,8 @@
 # Project-specific
 input.txt
 loss_history.json
+*.pt
+gpt_shakespeare_weights.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
