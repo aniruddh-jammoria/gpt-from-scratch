@@ -1,0 +1,5 @@
+input.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+loss_history.json
